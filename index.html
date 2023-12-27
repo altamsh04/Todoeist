@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To Do</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+<body onload="display_todo_list()">
+    <div class="container">
+        <div class="card">
+            <h1 style="color: #6C3483;">Todoeist 🚀</h1>
+            <input type="text" placeholder="Add your todo" id="todo-input">
+            <button id="add-button" style="background-color: #6C3483; color: #EBDEF0;" onclick="todo()">Add</button>
+        </div>
+
+        <div class="display-card" id="display-todo-list">
+            <h1>Loading...</h1>
+        </div>
+    </div>
+</body>
+
+</html>
