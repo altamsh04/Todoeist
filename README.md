@@ -8,7 +8,11 @@
 
 <br>
 
-![Screenshot 2024-01-16 002055](https://github.com/altamsh04/Todoeist/assets/84860267/742a4059-ccf6-474a-889c-0ba4534a243d)
+<div align='center'>
+  <br>
+  <img src="https://github.com/altamsh04/Todoeist/assets/84860267/28a10001-780b-4b2d-8eb2-da59b390dfee" alt="Todoeist Screenshot">
+  <br>
+</div>
 
 <br>
 Todoeist is a straightforward and minimalistic Todo List app designed with a user-friendly interface. It allows users to manage their tasks efficiently using basic technologies like HTML, CSS, and JavaScript.
