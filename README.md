@@ -1,17 +1,14 @@
 <div align='center'>
   <h1>Todoeist 🚀 - Simple Todo list app </h1>
-  <br>
-  <br><a href="https://altamsh04.github.io/Todoeist/" target="_blank">
-    <button>View live</button>
-  </a>
 </div>
-
 <br>
-
 <div align='center'>
   <br>
   <img src="https://github.com/altamsh04/Todoeist/assets/84860267/28a10001-780b-4b2d-8eb2-da59b390dfee" alt="Todoeist Screenshot">
   <br>
+  <a href="https://altamsh04.github.io/Todoeist/" target="_blank">
+    <button>View live</button>
+  </a>
 </div>
 
 <br>
