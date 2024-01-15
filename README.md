@@ -1,7 +1,8 @@
 <div align='center'>
   <h1>Todoeist 🚀 - Simple Todo list app </h1>
+  <br>
+  ![Screenshot 2024-01-16 002055](https://github.com/altamsh04/Todoeist/assets/84860267/742a4059-ccf6-474a-889c-0ba4534a243d)
   <br><a href="https://altamsh04.github.io/Todoeist/" target="_blank">
-    ![Screenshot 2024-01-16 002055](https://github.com/altamsh04/Todoeist/assets/84860267/742a4059-ccf6-474a-889c-0ba4534a243d)
     <button>View live</button>
   </a>
 </div>
