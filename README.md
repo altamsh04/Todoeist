@@ -1,10 +1,11 @@
 <div align='center'>
-  ##Todoeist 🚀 - Simple Todo list app 
+  <h1>Todoeist 🚀 - Simple Todo list app </h1>
   <br><a href="https://altamsh04.github.io/Todoeist/" target="_blank">
     <button>View project</button>
   </a>
 </div>
 
+<br>
 
 Todoeist is a straightforward and minimalistic Todo List app designed with a user-friendly interface. It allows users to manage their tasks efficiently using basic technologies like HTML, CSS, and JavaScript.
 
