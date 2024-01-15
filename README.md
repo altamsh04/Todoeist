@@ -1,9 +1,10 @@
 <div align='center'>
-# Todoeist - Simple Todo List App 
-  <a href="https://altamsh04.github.io/Todoeist/" target="_blank">
+  ##Todoeist 🚀 - Simple Todo list app 
+  <br><a href="https://altamsh04.github.io/Todoeist/" target="_blank">
     <button>View project</button>
   </a>
 </div>
+
 
 Todoeist is a straightforward and minimalistic Todo List app designed with a user-friendly interface. It allows users to manage their tasks efficiently using basic technologies like HTML, CSS, and JavaScript.
 
@@ -26,8 +27,6 @@ Todoeist is a straightforward and minimalistic Todo List app designed with a use
 ## How to Use
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/Todoeist.git
+   git clone https://github.com/altamsh04/Todoeist.git
    ```
 2. Open the `index.html` file in your preferred web browser.
-
-Feel free to customize and enhance Todoeist to suit your preferences. Happy task managing!
