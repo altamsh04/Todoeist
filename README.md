@@ -37,5 +37,5 @@ Todoeist is a straightforward and minimalistic Todo List app designed with a use
    ```
 2. Open the `index.html` file in your preferred web browser.
 
-##License
+## License
 [MIT LICENSE](LICENSE)
