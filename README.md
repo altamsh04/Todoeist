@@ -36,3 +36,6 @@ Todoeist is a straightforward and minimalistic Todo List app designed with a use
    git clone https://github.com/altamsh04/Todoeist.git
    ```
 2. Open the `index.html` file in your preferred web browser.
+
+##License
+[MIT LICENSE](LICENSE)
